@@ -31,7 +31,7 @@ const AndroidNotification: React.FC = () => {
                     </button>
                     <div className="flex items-center mb-2">
                         <Image src="/logo.svg" alt="Favicon" width={48} height={48} className="mr-2" />
-                        <span>Coba Roanime APK sekarang!</span>
+                        <span>Coba Rokuronime APK sekarang!</span>
                     </div>
                     <a href="#" className="bg-blue-500 text-white px-4 py-2 rounded">
                         Download
