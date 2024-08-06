@@ -17,7 +17,7 @@ export const metadata: Metadata = {
     { name: "ShirokamiRyzen" },
     {
       name: "ShirokamiRyzen",
-      url: "https://github.com/ShirokamiRyzen",
+      url: "#",
     },
   ],
   viewport:
