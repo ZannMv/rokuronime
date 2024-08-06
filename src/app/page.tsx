@@ -115,6 +115,9 @@ export default function Home() {
           gtag('config', 'G-TT2D2MBVGW');
         `}
       </Script>
+      
+      <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4658343875590407"
+     crossorigin="anonymous"></script>
 
       <div className="flex justify-between">
         <h1
