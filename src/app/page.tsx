@@ -116,6 +116,9 @@ export default function Home() {
         `}
       </Script>
       
+      <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4658343875590407"
+     crossorigin="anonymous"></script>
+      
       <div className="flex justify-between">
         <h1
           className={`bg-zinc-900 w-max text-white text-base px-4 py-1 rounded-md my-4 cursor-pointer clickAnimation ${category === 'new' ? 'opacity-100' : 'opacity-70'}`}
