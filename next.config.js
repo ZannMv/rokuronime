@@ -4,7 +4,7 @@ const nextConfig = {
     remotePatterns: [
       {
         protocol: 'https',
-        hostname: 'otakudesu.cloud',
+        hostname: 'wajik-anime-api.vercel.app',
         port: '',
       },
     ],
